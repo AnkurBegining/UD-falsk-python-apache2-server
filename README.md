@@ -198,16 +198,6 @@ sudo dpkg-reconfigure tzdata
 
 Select "None of the above" and then select UTC.
 
-
-When done, you should see something like this in the terminal.
-
-```sh
-Current default time zone: 'Etc/UTC'
-Local time is now:      Sat Jul 15 04:50:15 UTC 2017.
-Universal Time is now:  Sat Jul 15 04:50:15 UTC 2017.
-```
-
-
 ## Step 10:
 
 To serve Python using Apache and mod_wsgi, install the following components.
